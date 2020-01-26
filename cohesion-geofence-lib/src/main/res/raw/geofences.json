@@ -1,0 +1,32 @@
+[
+  {
+    "requestID": "1",
+    "name": "cohesion Building",
+    "latitude": 41.879420,
+    "longitude": -87.636210,
+    "radius": 100,
+    "transition": "enter_or_exit",
+    "expirationDuration": 36000000,
+    "delay": 0
+  },
+  {
+    "requestID": "2",
+    "name": "Wrigley Field Building",
+    "latitude": 41.94722,
+    "longitude": -87.65665,
+    "radius": 100,
+    "transition": "exit",
+    "expirationDuration": 36000000,
+    "delay": 0
+  },
+  {
+    "requestID": "3",
+    "name": "Navy Pier",
+    "latitude": 41.892189,
+    "longitude": -87.605888,
+    "radius": 100,
+    "transition": "dwelling",
+    "expirationDuration": 36000000,
+    "delay": 36000000
+  }
+]
